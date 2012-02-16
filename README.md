@@ -1,5 +1,5 @@
-Map Macon
-=========
+[Map Macon](http://mapmacon.herokuapp.com)
+===========
 
 A simple example site for showing TileMill maps of Macon, Georgia with
-Leaflet using Heroku as a hosting platform.
+Leaflet. The site is hosted [on Heroku](http://mapmacon.herokuapp.com).
