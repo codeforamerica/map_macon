@@ -3,5 +3,5 @@ var map = new L.Map('map', {
   layers: new L.TileLayer('http://a.tiles.mapbox.com/v3/zachwill.bibb/{z}/{x}/{y}.png'),
   minZoom: 11,
   maxZoom: 17,
-  zoom: 11
+  zoom: 12
 });
